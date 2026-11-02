@@ -1,0 +1,22 @@
+{
+  "wheel_id": 666,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-106",
+  "project": "kitchen-renovations-eastern-melbourne-common-mistakes-21b50cd7e",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-153",
+  "node_role": "feeder",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne common mistakes",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-eastern-melbourne-common-mistakes-21b50cd7e/",
+  "tier": "T2",
+  "writeback_nonce": "7403d6334cd62961",
+  "links": [
+    {
+      "target_url": "http://kitchen-renovations-eastern-melbourne-suburb-guide-caedb2440d0e.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this kitchen renovations eastern melbourne suburb guide guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
